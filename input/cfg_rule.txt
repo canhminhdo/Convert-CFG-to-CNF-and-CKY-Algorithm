@@ -1,0 +1,5 @@
+S	I
+S	(	S	)
+S	S	+	S
+I	a
+I	b
